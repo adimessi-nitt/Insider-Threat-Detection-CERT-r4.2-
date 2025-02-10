@@ -1,1 +1,6 @@
 # Insider-Threat-Detection-CERT-r4.2-
+Based on the CERT r4.2 dataset, for those who are new to this, the dataset provides log details of 1000 employees of a company, the time at which they used their pc, their mail list etc... 
+The first step or approach would be to develop an efficient feature extraction technique as the dataset is pretty huge and the details are scattered. I have taken a granular approach by looking at the details collectively for a month, week and a day.
+As of now i am only in the beginning stage and i would like to suggest an alternate approach by looking at the role of each employee or maybe a combined method of granularisation and role based segregation. 
+Right now I am interested in applying NLP on the HTTP file and find out if it leads to any improvements.
+For those already working in this or has any idea/suggestion, feel free comment...
